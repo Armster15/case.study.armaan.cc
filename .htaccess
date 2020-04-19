@@ -1,0 +1,18 @@
+RewriteEngine on
+
+#( ͡° ͜ʖ ͡°)  The fun stuff
+ErrorDocument 400 /rickroll.php
+
+ErrorDocument 401 /rickroll.php
+
+ErrorDocument 403 /rickroll.php
+
+ErrorDocument 404 /rickroll.php
+
+ErrorDocument 500 /rickroll.php
+#( ͡° ͜ʖ ͡°) mischief ends :(
+
+RewriteCond %{HTTP_HOST} ^case\.study\.armaan\.cc$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.case\.study\.armaan\.cc$
+RewriteRule ^/?$ "http\:\/\/case\.study\.armaan\.cc\/index\.html" [R=301,L]
+
