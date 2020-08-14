@@ -23,9 +23,9 @@
         ?>
         
         <meta charset="UTF-8">
-        <meta http-equiv="refresh" content="0; url=https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+        <meta http-equiv="refresh" content="0; url=https://www.youtube.com/watch?v=0JgF4CMXU9M">
         <script type="text/javascript">
-            window.location.href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+            window.location.href = "https://www.youtube.com/watch?v=0JgF4CMXU9M"
         </script>
 
         
@@ -33,11 +33,22 @@
     </head>
     <body>
         <!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
-        If you are not redirected automatically, follow this <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'>link to example</a>.
+        <p>If you are not redirected automatically, follow this <a href='https://www.youtube.com/watch?v=0JgF4CMXU9M'>by clicking on me!</a></p>
     </body>
 </html>
 
 <!-- 
 I stole the code from Stack Overflow :)
 https://stackoverflow.com/a/5411601/5721784
+-->
+
+
+
+<!-- LINKS
+
+https://www.youtube.com/watch?v=-bzWSJG93P8 == Darth Vader theme thing
+https://www.youtube.com/watch?v=dQw4w9WgXcQ == rickroll (obviously)
+https://vimeo.com/346762373  == trump singing rickroll
+https://www.youtube.com/watch?v=0JgF4CMXU9M == jakeybakers rickroll
+
 -->
