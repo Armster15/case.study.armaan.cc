@@ -23,9 +23,9 @@
         ?>
         
         <meta charset="UTF-8">
-        <meta http-equiv="refresh" content="0; url=https://www.youtube.com/watch?v=0JgF4CMXU9M">
+        <meta http-equiv="refresh" content="0; url=https://www.youtube.com/watch?v=dQw4w9WgXcQ">
         <script type="text/javascript">
-            window.location.href = "https://www.youtube.com/watch?v=0JgF4CMXU9M"
+            window.location.href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
         </script>
 
         
@@ -33,7 +33,7 @@
     </head>
     <body>
         <!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
-        <p>If you are not redirected automatically, follow this <a href='https://www.youtube.com/watch?v=0JgF4CMXU9M'>by clicking on me!</a></p>
+        <p>If you are not redirected automatically, follow this <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'>by clicking on me!</a></p>
     </body>
 </html>
 
